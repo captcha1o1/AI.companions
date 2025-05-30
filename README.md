@@ -1,12 +1,13 @@
-# Masking App
+# AI.companions
 
 An AI-powered application that combines text-to-speech, speech-to-text, and music features for an interactive experience.
 
 ## Features
+- Constamizable Character, as per need.
 - Voice interaction support
 - Text-to-speech capabilities using Edge TTS
 - Music playback functionality
-- OpenAI integration for AI interactions
+- Advanced Memory for the AI to remember important stuff
 
 ## Prerequisites
 - Python 3.8 or higher
@@ -27,7 +28,6 @@ pip install -r requirements.txt
 ```
 
 3. Configure the settings:
-   - Copy `settings.example.json` to `settings.json`
    - Update the `openrouter_token` with your API key
    - Adjust other settings as needed
 
@@ -48,10 +48,11 @@ The `settings.json` file contains the following options:
 ```bash
 python src/main.py
 ```
+4. Put your Open router key in the - menu --> API key
 
 ## Project Structure
 ```
-masking-app/
+app/
 ├── src/
 │   ├── memories/      # Memory management
 │   └── anime_ai/      # AI interaction components
