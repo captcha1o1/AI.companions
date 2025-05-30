@@ -18,8 +18,8 @@ An AI-powered application that combines text-to-speech, speech-to-text, and musi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/masking-app.git
-cd masking-app
+https://github.com/captcha1o1/AI.companions.git 
+cd AI.companions
 ```
 
 2. Install the required dependencies:
