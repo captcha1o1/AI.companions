@@ -1,0 +1,9 @@
+{
+  "voice_enabled": true,
+  "voice": "ja-JP-NanamiNeural",
+  "current_voice": "en-US-AnaNeural",
+  "openrouter_token": "your-api-key-here",
+  "voice_input_enabled": true,
+  "music_folder": "music",
+  "music_volume": 1.0
+} 
